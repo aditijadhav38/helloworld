@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-# Uncomment this to turn on verbose mode........
+# Uncomment this to turn on verbose mode...........
 #export DH_VERBOSE=1
 
 INSTDIR_BASE=$(shell pwd)/debian/helloworld
