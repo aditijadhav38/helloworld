@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int maint()
+int main()
 {
 printf("Hellp World..!!\n");
 return 0;
